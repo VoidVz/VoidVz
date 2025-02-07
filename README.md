@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Merhaba, Ben VoidVz!  
+Ben oyun geliştirme, web tasarımı ve müzikle ilgileniyorum. 🎵  
 
-<!--
-**VoidVz/VoidVz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 **Megalox Studios’un kurucusuyum.**  
+- 🎮 **Rocket League ve Minecraft oynuyorum.**  
+- 🎵 **Hardcore, hardstyle, funk ve phonk dinliyorum.**  
+- 💻 **HTML ve web tasarımı öğreniyorum.**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub İstatistiklerim  
+![VoidVz's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidVz&show_icons=true&theme=dark)  
+
+---
+
+## 📫 Bana Ulaşın!  
+[![Discord](https://img.shields.io/badge/Discord-VoidVz-blue?style=for-the-badge&logo=discord)](https://discord.com)  
+[![YouTube](https://img.shields.io/badge/YouTube-VoidVz-red?style=for-the-badge&logo=youtube)](https://youtube.com)  
