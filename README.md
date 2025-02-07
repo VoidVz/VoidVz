@@ -3,7 +3,7 @@
     <tr>
       <!-- Sol taraf: GIF -->
       <td>
-        <img src="https://media.tenor.com/7nOwCz3oGYYAAAAj/gengar.gif" width="250"/>
+        <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250"/>
       </td>
       
       <!-- Sağ taraf: Metin -->
@@ -11,7 +11,7 @@
         <h2>👋 Hi, I'm VoidVz!</h2>
         <ul>
           <li>🚀 <b>I'm the developer of Megalox Studios.</b></li>
-          <li>😄 <b>My projects are a bit bad because I'm a beginner.</b></li>
+          <li>😅 <b>My projects are a bit bad because I'm a beginner.</b></li>
           <li>🐱 <b>I use Scratch because I am a beginner.</b></li>
           <li>💻 <b>I will share my projects here once in a while!</b></li>
         </ul>
@@ -19,4 +19,5 @@
     </tr>
   </table>
 </div>
+
 
